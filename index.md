@@ -13,6 +13,6 @@ Askwell gives your Confluence site a place to ask questions and keep the answers
 - **Control who asks and who answers.** Allow everyone, or only members of chosen groups. Moderators can edit, delete and accept anywhere.
 - **Data stays in Atlassian.** Runs on Atlassian Forge with no outside servers.
 
-[User guide](guide.html) · [Support](support.html) · [Privacy policy](privacy.html) · [End user terms](terms.html)
+[User guide](guide.html) · [Questions for Confluence alternative](questions-for-confluence-alternative.html) · [Support](support.html) · [Privacy policy](privacy.html) · [End user terms](terms.html)
 
 Published by **Atesen Software** · sametatesen2@gmail.com

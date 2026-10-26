@@ -31,6 +31,10 @@ title: User guide — Askwell Q&A for Confluence
 
 A question asked from a page's Q&A button or from a macro on a page is linked to that page. Askwell only shows such a question to people who can see the page, in every list and in search. Questions asked from the Q&A page are visible to everyone who can use the app.
 
+## Askwell in Rovo
+
+If your site has Rovo, open Rovo chat and pick the **Askwell Q&A** agent, or ask any agent that has the **Search team Q&A** action. It searches your site's questions, quotes the accepted (or best-voted) answer, links the thread, and tells you where to ask when nobody has. It follows the same rule as the app: questions about pages you cannot see are never returned.
+
 ## Settings (Confluence admins)
 
 - **Who can ask questions / Who can answer:** everyone, or only members of selected groups. Moderators can always ask and answer.

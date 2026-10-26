@@ -29,7 +29,7 @@ Reviews of Q&A apps for Confluence Cloud keep naming the same needs:
 
 ## Moving from Data Center
 
-Askwell runs on Confluence Cloud only and does not import from other Q&A apps yet. If you are moving from Data Center, re-ask the questions that still matter in Askwell, and tell us at sametatesen2@gmail.com if bulk import would help you: it is next on the roadmap.
+Askwell runs on Confluence Cloud only. Admins can bring existing questions and answers in with a CSV import (title, details, topics, answer; up to 100 rows per run), so the answers your teams rely on are searchable from day one. Imported answers are marked accepted and appear in FAQ macros.
 
 ## Try it
 

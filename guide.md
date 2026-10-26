@@ -41,10 +41,15 @@ If your site has Rovo, open Rovo chat and pick the **Askwell Q&A** agent, or ask
 - **Moderators:** people who can edit, delete and accept on any question.
 - **Topics:** free topics, or a fixed list people must choose from.
 
+## Import questions from CSV (admins)
+
+In **Confluence administration → Askwell Q&A**, paste a CSV with the columns `title, details, topics, answer` (a header row is optional; columns are matched by name). Select **Check** to validate, then **Import**. Up to 100 rows per import; topics may be separated by `;` or `|`. When a row has an answer, it is added and marked accepted, so the question shows up in FAQ macros right away. If any row is invalid, nothing is imported and the faulty lines are listed.
+
 ## Macro options
 
 | Option | Values |
 |---|---|
+| Display | Question list, or FAQ (solved questions with their accepted answers) |
 | Heading | Any text; defaults to the topic or "Questions & answers" |
 | Topic | Show only questions with this topic |
 | Show questions from | Whole site, This space, This page |

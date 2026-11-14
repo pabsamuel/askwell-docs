@@ -5,7 +5,7 @@ title: Support — Askwell Q&A for Confluence
 # Support
 
 **App:** Askwell — Questions & Answers for Confluence · **Publisher:** Atesen Software
-**Email:** sametatesen2@gmail.com · **First response target:** 2 business days (Monday–Friday, Istanbul time, UTC+3)
+**Email:** support@atesensoftware.com · **First response target:** 2 business days (Monday–Friday, Istanbul time, UTC+3)
 
 ## Getting started
 

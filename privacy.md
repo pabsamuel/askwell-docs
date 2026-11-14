@@ -6,7 +6,7 @@ title: Privacy Policy — Askwell Q&A for Confluence
 
 **App:** Askwell — Questions & Answers for Confluence
 **Publisher:** Atesen Software (independent developer, Türkiye)
-**Contact:** sametatesen2@gmail.com
+**Contact:** support@atesensoftware.com
 **Last updated:** 26 October 2026
 
 ## 1. What the app stores
@@ -38,7 +38,7 @@ For data processed by this app on your site, your organization is the controller
 
 ## 6. Your requests
 
-To ask about data handled by this app, or to request deletion of data on your site, write to sametatesen2@gmail.com. Authors can delete their own questions and answers, and moderators can delete any of them, directly in the app.
+To ask about data handled by this app, or to request deletion of data on your site, write to support@atesensoftware.com. Authors can delete their own questions and answers, and moderators can delete any of them, directly in the app.
 
 ## 7. Security
 

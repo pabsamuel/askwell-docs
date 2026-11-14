@@ -18,4 +18,4 @@ Askwell gives your Confluence site a place to ask questions and keep the answers
 
 [User guide](guide.html) · [Questions for Confluence alternative](questions-for-confluence-alternative.html) · [Support](support.html) · [Privacy policy](privacy.html) · [End user terms](terms.html)
 
-Published by **Atesen Software** · sametatesen2@gmail.com
+Published by **Atesen Software** · support@atesensoftware.com
